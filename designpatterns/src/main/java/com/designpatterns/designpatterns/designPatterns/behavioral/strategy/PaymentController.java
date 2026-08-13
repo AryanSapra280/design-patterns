@@ -1,11 +1,7 @@
-package com.designpatterns.designpatterns.designPatterns.strategy;
+package com.designpatterns.designpatterns.designPatterns.behavioral.strategy;
 
 import lombok.RequiredArgsConstructor;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
-import java.net.http.HttpResponse;
 
 @RestController
 @RequestMapping("api/")

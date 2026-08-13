@@ -1,6 +1,5 @@
-package com.designpatterns.designpatterns.designPatterns.strategy;
+package com.designpatterns.designpatterns.designPatterns.behavioral.strategy;
 
-import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

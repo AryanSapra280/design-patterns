@@ -1,4 +1,4 @@
-package com.designpatterns.designpatterns.designPatterns.strategy;
+package com.designpatterns.designpatterns.designPatterns.behavioral.strategy;
 
 public interface PaymentStrategy {
     PaymentType getType();

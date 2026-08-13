@@ -1,6 +1,5 @@
-package com.designpatterns.designpatterns.designPatterns.strategy;
+package com.designpatterns.designpatterns.designPatterns.behavioral.strategy;
 
-import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
 
 @Component
